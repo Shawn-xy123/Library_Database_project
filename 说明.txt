@@ -1,0 +1,8 @@
+signin.ui:用Qtdesigner设计的登录界面
+userface.ui:用Qtdesigner设计的主界面
+
+signin.py:将signin.ui用pyuic4转化后的并做了修改的登录界面程序
+userface.py:将userface.ui用pyuic4转化后并做了修改的主界面程序
+surface.py:主要的程序，包含了数据库的连接，对数据的处理，以及将数据进行图形化显示等等
+
+xybook.frm:是本地数据库中，xybook表格的数据结构，为本次实验所用的表格
